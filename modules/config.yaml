@@ -1,0 +1,20 @@
+App:
+  title: "Treasure Hunter Game"
+  overall:
+    font: 'Helvetica'
+    font_size: 10
+  widgets:
+    button:
+      size: (200, 180)
+  size:
+    height: 720
+    width: 600
+  menubar:
+    height: 80
+
+
+# To Configure
+  gamedata:
+    rows: 4
+    columns: 4
+
